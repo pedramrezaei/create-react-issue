@@ -1,5 +1,3 @@
-import { Context } from "vm";
-
 declare module TheType{
     function getContext(): Context;
 
